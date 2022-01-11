@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "username": "mahmoud",
+    "gread": "[10,20]"
+}, {
+    "id": 3,
+    "username": "ali",
+    "gread": "[40,20]"
+}, {
+    "id": 2,
+    "username": "ali",
+    "gread": "[40,20]"
+}]
